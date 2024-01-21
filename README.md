@@ -1,9 +1,9 @@
 # Proyecyo_PixabayImagenes
 Pequeño buscador de imágenes pixabay realizado en el curso [JavaScript Moderno](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
-#📸Página principal
+# 📸Página principal
 
-#🪛Tecnologías
+# 🪛Tecnologías
 Para llevar a cabo la realización de este proyecto, he utilizado:
 * HTML
 * CSS
@@ -12,5 +12,5 @@ Para llevar a cabo la realización de este proyecto, he utilizado:
 A parte venían incluidos los diseños con:
 * Tailwind
 
-  # Autora
+  #  Autora
   * Sara Marrero Miranda
