@@ -1,5 +1,5 @@
 # Proyecyo_PixabayImagenes
-Pequeño buscador de imágenes pixabay realizado en el curso !(JavaScript Moderno)[https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/]
+Pequeño buscador de imágenes pixabay realizado en el curso [JavaScript Moderno](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/)
 
 #📸Página principal
 
