@@ -14,5 +14,5 @@ Para llevar a cabo la realización de este proyecto, he utilizado:
 A parte venían incluidos los diseños con:
 * Tailwind
 
-#  Autora
+#  👩🏻‍💻Autora
 * Sara Marrero Miranda
